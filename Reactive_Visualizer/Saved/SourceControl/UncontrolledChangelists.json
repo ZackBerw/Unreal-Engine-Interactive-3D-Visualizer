@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/OSC_Templates.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Router/OSC_Router.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/Default__BP_TG_AllInOneOSCControls_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/Default__BP_SH_OscRouter_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/BP_TG_AllInOneOSCControls_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/BP_TG_AllInOneOSCControls.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/BP_SH_OscRouter_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/BP_Templates/BP_SH_OscRouter.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/BP_Target_0.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/BP_lookAtObject.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/BP_CameraDirector.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/BP_Camera.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeSlow.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeRoll.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeLo.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeHi.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeFOV.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Reactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeConstant1.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeConstant1.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeFOV.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeHi.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeLo.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeRoll.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/Camera_Shakes/BP_camShakeSlow.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/BP_Camera.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/BP_CameraDirector.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/BP_lookAtObject.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Camera_System/BP_Target_0.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/BP_SH_OscRouter.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/BP_SH_OscRouter_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/BP_TG_AllInOneOSCControls.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/BP_TG_AllInOneOSCControls_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/Default__BP_SH_OscRouter_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/Default__BP_TG_AllInOneOSCControls_C.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/Router/OSC_Router.uasset",
+				"C:/Users/zackb/Documents/Unreal Projects/Reactive_Visualizer/Content/Interactive_Visualizer/BP_Templates/OSC_Templates.uasset"
+			]
+		}
+	]
+}
