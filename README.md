@@ -27,6 +27,9 @@ If you happen to be using a different setup and configuration for your Port and 
 - Next import the "OSC Template" blueprint then connect it to the Router. This blueprint template is where you'll build all your events and effects. Just be sure that the Envelope Track Address, Macro Track Address, Macro Number, MIDI track address and MIDI trigger note values are correctly aligned with the MaxForLive devices and MIDI information being used in Ableton. 
 
 - If you wish to control the camera and camera switching system import the "Camera Director" blueprint into the scene, select the router, and under the camera array choose the Cine Camera Actor that you have in your scene. This camera switching system allows for up to 12 different cameras to be used in one scene, as controlled by the MIDI data in Ableton. It specifically aligns with the 12 note values of C-2 through to C-1. The additional octave above that is what controls the look at targets and the octave above that adds camera shake if you so desire.
+
+Here's a video walkthrough of the process:
+https://www.youtube.com/watch?v=kIOKMqDuMMM
   
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 
