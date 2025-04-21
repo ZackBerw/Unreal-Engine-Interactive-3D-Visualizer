@@ -20,6 +20,8 @@ Instructions:
 - For Mac repeat the same process, but instead go to Music, Ableton, User Library, Presets then repeat the process as outlined above.
 
 - When it comes to the Unreal Engine side of things all you have to do is import or migrate the folder called "Reactive Visualizer" into the content folder of any Unreal project.
+
+- Ensure that the "OSC (Open-Sound-Control) plugin is enabled so the OSC_Router bluepirnt works as intended. You can find this under: Edit, Plugins, OSC (Open-Sound-Control).
   
 - To use the blueprints, start by placing the "Router" into any scene. This is what receives and parses the incoming OSC data as created by the MaxForLive devices or OSC/PAR. 
 If you happen to be using a different setup and configuration for your Port and IP address, this is where you'll adjust those values. As the stock values are setup for working with one computer handling both the Ableton and Unreal Engine tasks simultaneously.
